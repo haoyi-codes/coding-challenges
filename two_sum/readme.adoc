@@ -6,7 +6,7 @@ indices of two numbers in the array that add up to the target.
 You may assume that each input would have exactly one solution and you shouldn't
 use the same element twice.
 
-This has been adapted from https://leetcode.com/problems/two-sum.
+This problem has been adapted from https://leetcode.com/problems/two-sum.
 
 === Test case 1
 
