@@ -6,7 +6,7 @@
 # Copyright (c) 2025 Aryan
 # SPDX-License-Identifier: BSD-3-Clause
 
-# Version: 1.0.0
+# Version: 1.1.1
 
 class Solution:
     """
@@ -52,6 +52,7 @@ class Solution:
                 # the hashmap along with its index.
                 hashmap[nums[i]] = i
 
+
 def main():
     """
     Provides 3 test cases for the two_sum function
@@ -66,26 +67,28 @@ def main():
     a2 = t2.two_sum([3,2,4], 6)
     a3 = t3.two_sum([3,3], 6)
 
-    # Print the outputs.
-    print(a1)
-    print(a2)
-    print(a3)
-
     # See if we have passed the tests.
+    print(f"Output: {a1}")
+    print(f"Expected output: [0,1]")
     if a1 == [0,1]:
-        print("Test 1 passed.")
+        print("Test 1 passed.\n")
     else:
-        print("Test 1 failed.")
+        print("Test 1 failed.\n")
 
+    print(f"Output: {a1}")
+    print(f"Expected output: [1,2]")
     if a2 == [1,2]:
-        print("Test 2 passed.")
+        print("Test 2 passed.\n")
     else:
-        print("Test 2 failed.")
+        print("Test 2 failed.\n")
 
+    print(f"Output: {a1}")
+    print(f"Expected output: [0,1]")
     if a3 == [0,1]:
         print("Test 3 passed.")
     else:
         print("Test 3 failed.")
+
 
 if __name__ == "__main__":
     main()
