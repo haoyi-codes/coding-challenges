@@ -1,0 +1,20 @@
+== Description
+
+If a given integer *x* is a *palindrome* return *true* else return *false*.
+
+This problem has been adapted from https://leetcode.com/problems/palindrome-number.
+
+=== Test case 1
+
+*Input:* x = 121 +
+*Expected Output:* True
+
+=== Test case 2
+
+*Input:* x = -121 +
+*Expected Output:* False
+
+=== Test case 3
+
+*Input:* x = 10 +
+*Expected Output:* False
