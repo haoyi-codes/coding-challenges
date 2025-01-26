@@ -1,0 +1,4 @@
+== Description
+
+This repository holds coding challenges with varying levels of complexity, along
+with their solutions.

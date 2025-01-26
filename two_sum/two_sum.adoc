@@ -1,0 +1,27 @@
+== Discription
+
+Given an array of integers called *nums* and an integer *target* return the
+indices of two numbers in the array that add up to the target.
+
+You may assume that each input would have exactly one solution and you shouldn't
+use the same element twice.
+
+This has been adapted from https://leetcode.com/problems/two-sum.
+
+=== Test case 1
+
+nums = [2,7,11,15], target = 9
+
+The code should return [0,1]
+
+=== Test case 2
+
+nums = [3,2,4], target = 6
+
+The code should return [1,2]
+
+=== Test case 3
+
+nums = [3,3], target = 6
+
+The code should return [0,1]
