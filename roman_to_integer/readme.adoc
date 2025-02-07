@@ -2,7 +2,7 @@
 
 If a given a roman numeral *s* convert it to an integer.
 
-The constraints are 1 =< *s* =< 3999.
+The constraints are 1 ≤ *s* ≤ 3999.
 
 This problem has been adapted from https://leetcode.com/problems/roman-to-integer.
 
