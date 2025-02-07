@@ -6,17 +6,17 @@
 # Copyright (c) 2025 Aryan
 # SPDX-License-Identifier: BSD-3-Clause
 
-# Version: 1.0.0
+# Version: 1.0.1
 
 class Solution:
     """
     This is a class that finds the solution to the "Palindrome Number" problem from leetcode.
 
     Methods:
-        is_palindrome: check if given integer is a palindrome.
+        is_palindrome: Check if given integer is a palindrome.
     """
 
-    def is_palindrome(self, x:int) -> bool:
+    def is_palindrome(self, x: int) -> bool:
         """
         Check if the given integer is a palindrome.
 
