@@ -1,0 +1,22 @@
+== Description
+
+If a given a roman numeral *s* convert it to an integer.
+
+The constraints are 1 <= *s* <= 3999.
+
+This problem has been adapted from https://leetcode.com/problems/roman-to-integer.
+
+=== Test case 1
+
+*Input:* s = "III" +
+*Expected Output:* 3
+
+=== Test case 2
+
+*Input:* s = "LVIII" +
+*Expected Output:* 58
+
+=== Test case 3
+
+*Input:* s = "MCMXCIV"
+*Expected Output:* 1994
