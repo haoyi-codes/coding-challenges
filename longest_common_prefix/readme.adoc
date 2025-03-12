@@ -1,0 +1,16 @@
+== Description
+
+Write a function to find the longest common prefix string amongst an array of
+strings.
+
+This problem has been adapted from https://leetcode.com/problems/longest-common-prefix.
+
+=== Test case 1
+
+*Input:* ["flower", "flow", "flight"] +
+*Output:* fl
+
+=== Test case 2
+
+*Input:* ["dog", "racecar", "car"] +
+*Output:*
